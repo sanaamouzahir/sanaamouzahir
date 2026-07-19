@@ -2,7 +2,8 @@
 
 PhD candidate at MIT — [MSEAS Lab](https://mseas.mit.edu), Mechanical Engineering +
 Center for Computational Science and Engineering. I build machine-learned closure
-models that make coarse simulations of turbulence behave like fine ones.
+models that make coarse simulations of turbulence behave like fine ones, and I work
+on reduced-order modeling and dynamically orthogonal formulations of fluid flows.
 
 ## Research
 
